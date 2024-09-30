@@ -1,0 +1,14 @@
+C:\Users\gacha\Documents\leet\bin\Debug\net8.0\leet.exe
+C:\Users\gacha\Documents\leet\bin\Debug\net8.0\leet.deps.json
+C:\Users\gacha\Documents\leet\bin\Debug\net8.0\leet.runtimeconfig.json
+C:\Users\gacha\Documents\leet\bin\Debug\net8.0\leet.dll
+C:\Users\gacha\Documents\leet\bin\Debug\net8.0\leet.pdb
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\leet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\leet.AssemblyInfoInputs.cache
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\leet.AssemblyInfo.cs
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\leet.csproj.CoreCompileInputs.cache
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\leet.dll
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\refint\leet.dll
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\leet.pdb
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\leet.genruntimeconfig.cache
+C:\Users\gacha\Documents\leet\obj\Debug\net8.0\ref\leet.dll
